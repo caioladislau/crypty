@@ -1,4 +1,4 @@
-<?php namespace Crypty;
+<?php namespace Sysvale;
 
 class Crypty
 {
