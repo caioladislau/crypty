@@ -1,2 +1,2 @@
 # Crypty
-Classe para criptografia
+Classe para criptografia e descriptografia de informações
