@@ -1,5 +1,5 @@
 {
-    "name": "sysvale/crypt",
+    "name": "sysvale/crypty",
     "description": "Classe para criptografia",
     "keywords": ["sysvale", "library"],
     "type": "library",
