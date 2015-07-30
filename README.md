@@ -1,2 +1,2 @@
-# crypty
+# Crypty
 Classe para criptografia

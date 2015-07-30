@@ -1,0 +1,22 @@
+{
+    "name": "sysvale/Crypt",
+    "description": "Classe para criptografia",
+    "keywords": ["sysvale", "library"],
+    "type": "library",
+    "homepage": "https://github.com/facebook/facebook-php-sdk-v4",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Caio Ladislau",
+            "email": "caio.ladislau@sysvale.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Crypty\\": "src/"
+        }
+    }
+}
